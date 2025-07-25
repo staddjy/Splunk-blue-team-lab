@@ -53,5 +53,5 @@ index=* sourcetype=WinEventLog:Security
 
 ## 📸 Screenshot Example
 
-![Splunk Dashboard]()
+![Splunk Dashboard](screenshots/splunk_log_failed staddjy.png)
 
