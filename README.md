@@ -53,8 +53,11 @@ index=* sourcetype=WinEventLog:Security
 
 
 
+
+
 ## 📸 Screenshot Example
 
-![Failed Log Screenshot](screenshots/splunk_log_failed%20staddjy.png)
+![Failed Log Screenshot](screenshots/splunk_log_failed_staddjy.png)
+
 
 
