@@ -50,6 +50,7 @@ index=* host=windows-vm EventCode=4624
 index=* host=windows-vm EventCode=4798
 index=* sourcetype=WinEventLog:Security
 
+---
 
 ## 📸 Screenshot Example
 
