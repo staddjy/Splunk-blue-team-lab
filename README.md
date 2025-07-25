@@ -53,4 +53,4 @@ index=* sourcetype=WinEventLog:Security
 
 ## 📸 Screenshot Example
 
-/screenshots/report_quick_log-failed.png
+https://github.com/staddjy/Splunk-blue-team-lab/blob/main/screenshots/report_quick_log-failed.png
