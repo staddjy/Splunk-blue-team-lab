@@ -49,3 +49,8 @@ Some example Splunk queries used in the project:
 index=* host=windows-vm EventCode=4624
 index=* host=windows-vm EventCode=4798
 index=* sourcetype=WinEventLog:Security
+
+
+## 📸 Screenshot Example
+
+![Splunk Dashboard](screenshots/report_quick_log-failed.png)
