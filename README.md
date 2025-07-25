@@ -53,4 +53,4 @@ index=* sourcetype=WinEventLog:Security
 
 ## 📸 Screenshot Example
 
-![Splunk Dashboard](/screenshots/report_quick_log-failed.png)
+/screenshots/report_quick_log-failed.png
