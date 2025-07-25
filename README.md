@@ -50,9 +50,11 @@ index=* host=windows-vm EventCode=4624
 index=* host=windows-vm EventCode=4798
 index=* sourcetype=WinEventLog:Security
 
----
+
+
 
 ## 📸 Screenshot Example
 
-![Splunk Dashboard](screenshots/splunk_log_failed staddjy.png)
+![Failed Log Screenshot](screenshots/splunk_log_failed%20staddjy.png)
+
 
