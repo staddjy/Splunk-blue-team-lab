@@ -1,0 +1,2 @@
+index=* host=windows-vm 
+| stats count by source
