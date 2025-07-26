@@ -1,0 +1,11 @@
+```xml
+<Sysmon schemaversion="4.50">
+  <EventFiltering>
+    <ProcessCreate onmatch="include" />
+    <NetworkConnect onmatch="include" />
+    <Logon onmatch="include" />
+    <ImageLoaded onmatch="include" />
+    <FileCreateTime onmatch="include" />
+  </EventFiltering>
+</Sysmon>
+```
