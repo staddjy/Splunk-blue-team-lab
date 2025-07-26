@@ -1,1 +1,0 @@
-index=* host=windows-vm source=WinEventLog:Security EventCode=4625
