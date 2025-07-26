@@ -41,7 +41,7 @@ Below is a Splunk dashboard example showing detected failed login attempts.
 
 ![Failed Log Screenshot](screenshots/splunk_log_failed_staddjy.png)
 
-> Make sure the image file is correctly named and inside the `screenshots/` folder.
+
 
 ## 📄 How to Reproduce
 
