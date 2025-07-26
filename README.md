@@ -36,6 +36,9 @@ Key Windows Event IDs monitored:
 | 4798     | User account enumeration|
 
 ## 📸 Screenshot Example
+Below is the first receiving logs
+
+![Failed Log Screenshot](screenshots/first_logs_splunk1.png)
 
 Below is a Splunk dashboard example showing detected failed login attempts.
 
